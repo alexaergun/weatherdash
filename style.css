@@ -1,0 +1,29 @@
+
+*{
+    box-sizing: border-box;
+       
+}
+
+body {
+    color: black;
+    font-size: 16px;
+    font-family: 'Tajawal', sans-serif;
+
+    
+}
+h3{
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+
+}
+.forecast{
+        font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+    font-family: 'Work Sans', sans-serif;
+}
+li:hover{
+    background-color: lightpink;
+    text-decoration: underline;
+    }
