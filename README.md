@@ -27,7 +27,7 @@ If the user wants to see the past search city weather condition again, just clic
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [Alexandria Alixis Atwell]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
